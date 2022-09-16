@@ -39,15 +39,3 @@ The generated molecules are evaluated at each step and the results are stored in
 
 The experiment results we listed in the paper are obtained by averaging the outcomes of 10 independent sampling paths. For each sampling path, we record the evaluation results of the step that produces the highest PM score. 
 
-## Citation
-
-```
-@inproceedings{
-    xie2021mars,
-    title={MARS: Markov Molecular Sampling for Multi-objective Drug Discovery},
-    author={Yutong Xie and Chence Shi and Hao Zhou and Yuwei Yang and Weinan Zhang and Yong Yu and Lei Li},
-    booktitle={International Conference on Learning Representations},
-    year={2021},
-    url={https://openreview.net/forum?id=kHSu4ebxFXY}
-}
-```
