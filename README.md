@@ -1,7 +1,7 @@
 # MARS: Markov Molecular Sampling for Multi-objective Drug Discovery
 
-Thanks for your interest! This is the code repository for our ICLR 2021 paper [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/pdf?id=kHSu4ebxFXY). 
-
+This is the code repository for our ICLR 2021 paper [MARS: Markov Molecular Sampling for Multi-objective Drug Discovery](https://openreview.net/pdf?id=kHSu4ebxFXY). 
+AND I edit this code to excute for another data and objective.
 ## Dependencies
 
 The `conda` environment is exported as `environment.yml`. You can also manually install these packages:
